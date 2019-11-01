@@ -1,0 +1,156 @@
+body{
+    background: url(../img/tanim.jpg);
+    background-repeat: no-repeat;
+}
+.tanim11{
+    margin: 2000px;
+}
+.imgd {
+    width: 161px;
+    margin-top: 18px;
+    margin-left: 42px;
+}
+ul li {
+    display: inline;
+    margin-left: 68px;
+}
+ul li a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 12px;
+}
+.nav-bar {
+    text-align: center;
+    margin-top: -53px;
+}
+ul li a:hover{
+background: skyblue;
+color: black;
+transition-duration: 0.4s;
+} 
+.txt {
+    color: blanchedalmond;
+    font-size: 65px;
+    margin-top: 271px;
+}
+.aboutus {
+    color: black;
+    font-size: 40px;
+    margin-top: 322px;
+    background-color: white;
+    padding: 173px 22px 111px 174px;
+    width: 1532px;
+    height: 189px;
+    margin-left: -10px;
+}
+.hrdesign {
+    height: 1px;
+    margin-top: -242px;
+    width: 144px;
+    background-color: #56ff00;
+    margin-left: 163px;
+}
+.pragraph {
+    margin-left: 597px;
+    margin-top: -180px;
+    width: 507px;
+    color: #897777;
+}
+.image {
+    width: 369px;
+}
+.what{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+}
+.hr2 {
+    height: 1px;
+    background-color: green;
+    width: 237px;
+}
+
+
+.best {
+    font-family: monospace;
+    text-align: center;
+    width: 182px;
+    margin: 0 auto;
+    display: block;
+}
+.drowing1 {
+    width: 250px;
+    margin-left: 185px;
+}
+.drowing2 {
+    width: 175px;
+    margin-left: 234px;
+    margin-top: 51px;
+}
+.drowing3 {
+    width: 250px;
+    margin-left: 1121px;
+    margin-top: -152px;
+}
+.design{
+    width: 200px;
+}
+.logop3 {
+    width: 219px;
+    margin-left: 1176px;
+    margin-top: -167px;
+}
+.logop2 {
+    width: 200px;
+    margin-top: -166px;
+    margin-left: 701px;
+}
+.logop1 {
+    width: 200px;
+    margin-left: 225px;
+    margin-top: -27px;
+}
+.SHOW {
+    text-align: center;
+    display: block;
+    margin-top: 142px;
+    font-family: none;
+    color: deepskyblue;
+    font-size: 21px;
+}
+.payme {
+    font-size: 50px;
+    background-color: #333397;
+    height: 571px;
+    padding: 126px 1px 1px 126px;
+    color: white;
+    margin-top: 76px;
+}
+.paymep {
+    width: 507px;
+    font-size: 21px;
+    margin-top: 33px;
+}
+.ssimg {
+    width: 194px;
+    margin-left: 1083px;
+    margin-top: -257px;
+}
+.ssimg2 {
+    width: 194px;
+    margin-left: 857px;
+    margin-top: -305px;
+}
+.seecash {
+    font-size: 20px;
+    color: white;
+    margin-left: 111px;
+    margin-top: -66px;
+    display: block;
+    background-color: #5dc1ea;
+    width: 116px;
+    padding: 10px 27px;
+    text-decoration: none;
+    border-radius: 22px;
+    box-shadow: -1px 3px 10px 2px #3ba1c9;
+}
